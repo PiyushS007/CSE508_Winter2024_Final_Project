@@ -30,16 +30,16 @@ pip install -r requirements.txt
 To clone this repository and set up the News Generator application locally, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/your-username/news-generator.git
-cd news-generator
+git clone https://github.com/PiyushS007/CSE508_Winter2024_Final_Project.git
+
 ```
 
 ### Running the Application
 
-1. Run the `news_generator.py` script to launch the GUI application.
+1. Run the `Final_Project.py` script to launch the GUI application.
 
 ```bash
-python news_generator.py
+python Final_Project.py
 ```
 
 2. Use the GUI interface to input text or select news categories and languages.
@@ -54,4 +54,9 @@ python news_generator.py
 
 ## Contributors
 
-- [Contributor Name](https://github.com/contributor): Description of contributions.
+- [Dwaipayan Mondal](https://github.com/Dwaipayan-MT23035)
+- [Manish Kumar](https://github.com/mkt0112)
+- [Parnita Bokade](https://github.com/ParnitaBokade)
+- [Piyush Kumar Saini](https://github.com/PiyushS007)
+- [Pragati Agrawal](https://github.com/Pragati1200)
+
